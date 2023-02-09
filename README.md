@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there!
+### I'm Mehar Khurana
+
+- Currently a CSAI (B. Tech) sophomore at {IIITD}[https://github.com/IIIT-Delhi]
+- I'm interested in ML/DL, and Algorithms
+
 
 <!--
 **meharkhurana03/meharkhurana03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
