@@ -1,9 +1,14 @@
-### Hi there!
-### I'm Mehar Khurana
+### Hi there 👋
 
-- Currently a CSAI (B. Tech) sophomore at [IIIT Delhi](https://github.com/IIIT-Delhi).
+- I'm Mehar Khurana, currently a CSAI (B. Tech) sophomore at [IIIT Delhi](https://github.com/IIIT-Delhi).
 - I'm interested in ML/DL, and Algorithms.
+- Exploring Computer Vision.
 - Would love to collaborate on some cool projects!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meharkhurana03)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=meharkhurana03&theme=horizon&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 
 
 <!--
