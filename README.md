@@ -1,8 +1,9 @@
 ### Hi there!
 ### I'm Mehar Khurana
 
-- Currently a CSAI (B. Tech) sophomore at {IIITD}[https://github.com/IIIT-Delhi]
-- I'm interested in ML/DL, and Algorithms
+- Currently a CSAI (B. Tech) sophomore at [IIIT Delhi](https://github.com/IIIT-Delhi).
+- I'm interested in ML/DL, and Algorithms.
+- Would love to collaborate on some cool projects!
 
 
 <!--
