@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I'm Mehar Khurana, currently a CSAI (B. Tech) senior at [IIIT Delhi](https://github.com/IIIT-Delhi)
-- I'm interested in Computer Vision, Computational Imaging and ML/DL.
+- My name is Mehar Khurana, and I'm currently an MSR student at Carnegie Mellon University.
+- I'm interested in 3D/4D Reconstruction and Representation Learning.
 - Would love to collaborate on some cool projects!
 
 <!--
